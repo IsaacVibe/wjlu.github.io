@@ -12,21 +12,29 @@ Wan-jin Lu is a 2nd year Ph.D. candidate in National Astronomical Observatories,
 Education
 ======
 2019.9 -- 2023.6 Undergraduate School of Astronomy and Space Science, Nanjing Univ.
+
 2023.9 -- 2028.6 Ph.D. National Astronomical Observatories, Chinese Academy of Sciences
 
 Research interest
 ======
 Fast Radio Bursts, Pulsars, and all the (radio) transients
+
 Interstellar, Intergalactic, and all the Medium in the universe
+
 Cosmology
+
 Instrumentation and Methods
+
 Mechine learning(still a rookie!)
 
 Works
 ------
 Periodic signal and Single pulse search on magnetars and central compact objects using FAST
+
 Temporal evolution of the depolarization of Active FRB repeater FRB 20201124A
+
 Mapping the scattering and depolarization of FRBs (in preparation)
+
 Pulse analysis on a peculiar narrow-banded Galactic transient using FAST
 
 
