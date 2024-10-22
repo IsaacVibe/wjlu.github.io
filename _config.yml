@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wan-jin Lu/小菜包"
+title                    : "Wan-jin Lu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "selfie.png"
-  name             : "陆万锦/Wan-jin Lu"
+  name             : "Wan-jin Lu"
   pronouns         : "He/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Chaoyang District, Beijing"
